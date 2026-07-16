@@ -1,13 +1,13 @@
 # PCBOuija
 
-### Front Illuminated
-<img src="./images/PCBOuijaFront.jpg" height=200> | <img src="./images/PCBOuijaFront.jpg" height=200>
+### Front
+<img src="./images/PCBOuijaFront.jpg" height=200>
 </br> 
-### Rear Illuminated
-<img src="./images/PCBOuijaBack.jpg" height=200> | <img src="./images/PCBOuijaBack.jpg" height=200>
+### Rear
+<img src="./images/PCBOuijaBack.jpg" height=200>
 <br>
 
-## Bugs/Features:
+## Features:
 
 | PCBOuija |
 | -------- | 
